@@ -1,4 +1,4 @@
-# Text Recognition for Android using Google Mobile Vision.
+# Text Recognition and Reader for Android using Google Mobile Vision.
 
 This is simple Android app that uses Google Mobile Vision API’s for Optical character recognition(OCR).
 
